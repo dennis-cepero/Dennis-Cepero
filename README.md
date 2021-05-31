@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dennis-Cepero
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science at the University of Central Florida.
+- 🌱 I’m currently studying Computer Science at the University of Central Florida.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+- 📫 Reach me at denniscepero@gmail.com
