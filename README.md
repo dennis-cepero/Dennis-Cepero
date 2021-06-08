@@ -1,5 +1,5 @@
 - Hi, I’m @Dennis-Cepero
-- I’m interested in ...
+- I’m interested in C, Java, and Javascript.
 - I’m currently studying Computer Science at the University of Central Florida.
-- I’m looking to collaborate on ...
+- I’m looking to collaborate on any projects that can use my skills.
 - Reach me at denniscepero@gmail.com
