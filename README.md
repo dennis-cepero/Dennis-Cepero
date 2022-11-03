@@ -1,5 +1,1 @@
-- Hi, I’m @Dennis-Cepero
-- I’m currently studying Computer Science at the University of Central Florida.
-- I’m learning C, Java, Javascript, HTML, and CSS.
-- I’m looking to collaborate on any projects that can use my skills.
-- Reach me at denniscepero@gmail.com
+
